@@ -3,14 +3,23 @@
 The implementation of Elliptic Curve Cryptography (ECC) aims to provide strong security with smaller key sizes, enhancing efficiency in encryption, digital signatures, and key exchange.
 ## ALGORITHM:
 STEP-1: Input Parameters
+
 STEP-2: Calculate Public Keys
+
 STEP-3: Display Public Keys
+
 STEP-4: Calculate Shared Secret Keys
+
 STEP-5: Display Shared Secret Keys
+
 STEP-6: Check If Shared Secrets Match
+
 STEP-7: Input the Message to Encrypt
+
 STEP-8: Encrypt the Message
+
 STEP-9: Display the Encrypted Message and the Decrypted Message.
+
 ## PROGRAM:
 ```
 #include <stdio.h>
@@ -37,7 +46,7 @@ int main() {
     int message, encrypted_message, decrypted_message;
 
     printf("\n ********Elliptic Curve Cryptography(ECC)********\n\n");
-    printf("\n NAME: DEVADARSHAN A S REG NO:212222110007\n\n");
+    printf("\n NAME: Gokularamanan\n\n");
 
     // Get the base point (G) and prime modulus (p) from the user
     printf("Enter the base point (G): ");
@@ -90,7 +99,8 @@ int main() {
 
 
 ## OUTPUT:
-![Screenshot 2024-10-18 133009](https://github.com/user-attachments/assets/b4c4de1b-8d97-4e7d-b508-d54c9b4164ed)
+![image](https://github.com/user-attachments/assets/b2068423-3aac-4cc7-a681-dcfcc9aff170)
+
 
 
 
